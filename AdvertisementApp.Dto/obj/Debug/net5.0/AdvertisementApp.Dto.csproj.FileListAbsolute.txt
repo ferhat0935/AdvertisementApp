@@ -1,0 +1,11 @@
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\bin\Debug\net5.0\AdvertisementApp.Dto.deps.json
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\bin\Debug\net5.0\AdvertisementApp.Dto.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\bin\Debug\net5.0\AdvertisementApp.Dto.pdb
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.AssemblyInfoInputs.cache
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.AssemblyInfo.cs
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.csproj.CoreCompileInputs.cache
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\refint\AdvertisementApp.Dto.dll
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\AdvertisementApp.Dto.pdb
+C:\Users\pamuk\OneDrive\Masaüstü\Web Geliştirme\AspNet.Core\AdvertisementApp\AdvertisementApp.Dto\obj\Debug\net5.0\ref\AdvertisementApp.Dto.dll
